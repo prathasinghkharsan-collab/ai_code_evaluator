@@ -1,0 +1,6 @@
+streamlit
+radon
+openai
+python-dotenv
+reportlab
+matplotlib
